@@ -1,0 +1,43 @@
+body{
+	background: url("../images/background_image.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+img{
+	height: 200px;
+	width: 200px;
+}
+
+h2{
+	text-align: center;
+}
+
+.gifDiv{
+	margin: 5px;
+	float: left;
+}
+
+.container{
+	padding: 25px;
+	background-color: #eee;
+}
+
+.btn{
+	background-color: #777777;
+	margin: 5px;
+	border-color: #fff;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+	text-align: center;
+}
+
+div#footer{
+	text-align: center;
+	clear: both;
+	position: center;
+	bottom: 0;
+	left: 0;
+	margin-top: 50px;
+}
